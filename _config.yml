@@ -1,0 +1,14 @@
+layout_spectrum: 0.4515914604999125
+typography_spectrum: 0.323750187875703
+color:
+  brandStrength: 0.2597165866754949
+  lightness: 0.5628218604251742
+  saturation: 0.7238770327530801
+  rhythmicContrast: 0.6563106637913734
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: ArtS
