@@ -1,4 +1,3 @@
-layout_spectrum: 0.4515914604999125
 typography_spectrum: 0.323750187875703
 color:
   brandStrength: 0.2597165866754949
@@ -11,4 +10,6 @@ color:
     - '#D2321D'
     - '#B2864F'
     - '#C3CECB'
+layout_spectrum: 0.4515914604999125
 name: ArtS
+description: Find Your Brush
